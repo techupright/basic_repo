@@ -1,5 +1,2 @@
-# www.robotstxt.org/
-
-# Allow crawling of all content
-User-agent: *
-Disallow:
+Hello World
+This is a simple html boilerplate code which I downloaded from initializr.com
